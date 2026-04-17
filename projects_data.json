@@ -13,6 +13,19 @@
     "href": "https://github.com/rb1811/portfolio"
   },
   {
+    "title": "API Wraps MS-Florence LLM",
+    "teamsize": 1,
+    "short_description": "FastAPI and Chainlit wrapper for Microsoft Florence LLM",
+    "full_description": [
+      "A high-performance, production-ready wrapper for Microsoft's Florence-2 Vision-Language Model.",
+      "This project provides both a FastAPI backend for programmatic access and a Chainlit frontend for interactive chat, integrated with Infisical for secrets, MinIO for storage, and Logfire for observability."
+    ],
+    "languages_used": ["Python", "Docker", "Reflex", "Chainlit", "LLM"],
+    "href": "https://github.com/rb1811/FastAPI-Wrapper-for-MS-Florence",
+    "extra_href_display_name": "Blog",
+    "extra_href": "https://medium.com/@prabhatracherla/run-manage-florence-llm-locally-2e754598fa25"
+  },
+  {
     "title": "Berkeley's PACMAN",
     "teamsize": 1,
     "short_description": "AI implementation project based on the University of Berkeley's *Pacman* environment, focused on foundational search algorithms.",
